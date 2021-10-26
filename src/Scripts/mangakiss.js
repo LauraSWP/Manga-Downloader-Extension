@@ -16,7 +16,7 @@ function mangakissF() {
                 doLoop();
             }
             break;
-        case "manhuaplus.com":
+        case "toonily.com":
         case "aloalivn.com":
         case "365manga.com":
         case "mangafort.com":
