@@ -33,7 +33,7 @@ if(document.querySelector("span#azerty") === null){
         case "toonily.net":
         case "mangatx.com":
         case "aloalivn.com":
-        case "manhuaplus.com":
+        case "toonily.com":
         case "mangaclash.com":
         case "manhuasworld.com":
             mangakissF();   // is the same as mangakiss.org
