@@ -10,7 +10,7 @@ function mangakissF() {
     // to store all chapters images for batch Download (store the buttons)
     let chaptersData = [];
     switch (host) {
-        case "mangakiss.org":
+        case "toonily.com":
             if(document.querySelector("div.listing-chapters_wrap") !== null){
                 loops = 0;
                 doLoop();
@@ -139,7 +139,7 @@ function mangakissF() {
                     let parser = new DOMParser();
                     let doc = parser.parseFromString(this.responseText, "text/html");
                     let imgs = doc.querySelectorAll("div.page-break > img.wp-manga-chapter-img");
-                    if(host === "aloalivn.com" || host === "manhuaplus.com"){
+                    if(host === "aloalivn.com" || host === "xtoonily.com"){
                         imgs = doc.querySelectorAll("div.reading-content ul.blocks-gallery-grid > li.blocks-gallery-item img");
                     }
                     if(host === "manhuaplus.com"){
