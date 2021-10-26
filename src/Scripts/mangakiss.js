@@ -17,6 +17,7 @@ function mangakissF() {
             }
             break;
         case "toonily.com":
+        case "hentai20.com":
         case "aloalivn.com":
         case "365manga.com":
         case "mangafort.com":
