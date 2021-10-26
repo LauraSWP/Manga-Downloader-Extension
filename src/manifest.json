@@ -120,7 +120,7 @@
 		"*://*.gamindustri.us/*",
 		"*://*.mangasail.net/*",
 		"*://*.mangasaki.com/*",
-		"*://*.manhuaplus.com/*",
+		"*://*.toonily.com/*",
 		"*://*.mangakomicdn.com/*"
    ],
 	"content_scripts": [
@@ -185,7 +185,7 @@
 				"*://www.qiman6.com/*",
 				"*://qingman5.com/*",
 				"*://full-metal-alchemist.com/*",
-				"*://manhuaplus.com/*",
+				"*://toonily.com/*",
 				"*://mangaclash.com/*",
 				"*://manhuasworld.com/*",
 				"*://www.funmanga.com/*",
