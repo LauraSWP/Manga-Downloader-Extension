@@ -121,6 +121,7 @@
 		"*://*.mangasail.net/*",
 		"*://*.mangasaki.com/*",
 		"*://*.toonily.com/*",
+		"*://*.hentai20.com/*",
 		"*://*.mangakomicdn.com/*"
    ],
 	"content_scripts": [
@@ -195,6 +196,7 @@
 				"*://kissaway.net/*",
 				"*://klmanga.com/*",
 				"*://lovehug.net/*",
+		                "*://hentai20.com/*",
 				"*://www.mangasaki.com/*"
 			],
 	  "js": ["External/pdf-lib.js",
